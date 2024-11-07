@@ -2,9 +2,11 @@
 title: The Curse of Recursivity
 tags:
 ---
-“*The human race comes from nothing and goes to nothing. Beyond this there is nothing.*” - Peter Wessel Zapffe
+*The human race comes from nothing and goes to nothing. Beyond this there is nothing.* - Peter Wessel Zapffe
 
-“*And all once was and will return / As, without cease, life spins its whirling fabric / Through eternal aeons*.” - Ludwig Klages, *Life*
+*And all once was and will return*
+*As, without cease, life spins its whirling fabric*
+*Through eternal aeons*. - Ludwig Klages, *Life*
 
 ~
 
