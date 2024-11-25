@@ -1,7 +1,7 @@
 ---
 title: A Quick Note on God & Faith
 tags:
-date: 25/11/24
+date: 11/25/24
 ---
 Those who have followed me for sometime may ask ‘What happened to the Catholicism?’, and those who have just come across my writing also may ask ‘Why is there an introductory book on Christianity in your bibliography?’ The answer is that for a while I did ‘believe’ in God, but that belief was, as a matter of fact, me _telling myself_ I believed in God.
 
