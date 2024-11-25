@@ -20,7 +20,6 @@ That _breach_ that tears apart the fabric of primal equilibrium, splitting asund
 
 What I seek to do is to enquire into the nature of Recursivity and the nihil hidden within its recursive function, striving to perceive its ontological possibilities in relation to the human being.
 
-As I’m not a fan of philosophical cliffhangers, I shall state now that as far as my own efforts have taken me I understand and conclude that Recursion is a cosmic curse, and that the human being’s ontological horizon (as per Zapffe contra Heidegger) is in truth bent upon itself as a circle, and that our limit is ever to know that we know that we shall never know.
-
+As I’m not a fan of philosophical cliffhangers, I shall state now that as far as my own efforts have taken me, I understand and conclude that Recursion is a cosmic curse, and that the human being’s ontological horizon (as per Zapffe contra Heidegger) is in truth bent upon itself as a circle, and that our limit is ever to know that we know that we shall never know.
 
 ~
