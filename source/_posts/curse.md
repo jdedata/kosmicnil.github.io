@@ -1,6 +1,7 @@
 ---
 title: The Curse of Recursivity
 tags:
+date: 11/11/24
 ---
 *The human race comes from nothing and goes to nothing. Beyond this there is nothing.* - Peter Wessel Zapffe
 
